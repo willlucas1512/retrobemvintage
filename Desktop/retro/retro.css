@@ -1,0 +1,21 @@
+body {
+    background-image:url(record-player.jpg);
+    background-attachment: fixed
+}
+
+li {
+	font-family:dosis;
+}
+.row {
+	padding:60px
+
+}
+
+div {
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+h5 {
+	text-align: left;
+}
